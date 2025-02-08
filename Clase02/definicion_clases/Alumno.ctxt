@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Alumno
-comment1.params=cod\ ape\ nom\ a\u00F1o_est
-comment1.target=void\ registrarAlumno(int,\ java.lang.String,\ java.lang.String,\ int)
-comment2.params=
-comment2.target=int\ obtenerA\u00F1oEstudios()
-comment3.params=
-comment3.target=void\ mostrarCarnet()
-numComments=4
